@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=TLauncher Legacy
+Comment=Unofficial Minecraft Launcher
+Keywords[ru]=Майнкрафт;кубач;тлаунчер;лаунчер;
+Exec=tl-legacy
+Icon=tl-legacy
+Terminal=false
+Categories=Game;Application;
+StartupWMClass=tl-legacy

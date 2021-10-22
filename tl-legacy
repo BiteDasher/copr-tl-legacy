@@ -1,0 +1,2 @@
+#!/bin/bash
+exec java -jar /opt/tl-legacy/tl-legacy.jar "$@"
